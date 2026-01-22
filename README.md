@@ -32,7 +32,7 @@ The design prioritizes large text, clear actions, plain language, and reassuranc
 
 ## 📄 Full Case Study
 
-👉 **[Download the full UX case study (PDF)]([TeleHealth_UX_Case_Study.pdf](https://github.com/Monique-199/README.md/blob/main/TeleHealth.pdf))**
+👉 **[Download the full UX case study (PDF)]https://github.com/Monique-199/README.md/blob/main/TeleHealth.pdf**
 
 The PDF includes:
 - Problem definition & market context (Kenya)
